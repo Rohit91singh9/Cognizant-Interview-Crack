@@ -1,0 +1,17 @@
+•	Check Armstrong Number
+•	Check Odd or Even
+•	Fibonacci Series
+•	Factorial of a Number
+•	Average of 2 Numbers
+•	HCF or GCD of 2 Numbers
+•	LCM of 2 Numbers
+•	Swap two Numbers
+•	Concatenate 2 Strings
+•	Greatest of 3 Numbers
+•	Checking Leap Year
+•	Checking Prime Number
+•	Prime Numbers upto N
+•	Sum of Digits of a number
+•	Palindrome String
+•	Reverse a String
+•	Reverse a Number
